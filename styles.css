@@ -61,10 +61,10 @@ body {
     background-color: #A30052;
     color: white;
     padding: 8px;
-    font-size: 0.9em; /* Adjusted font size */
+    font-size: 0.9em; 
     border: none;
     border-radius: 5px;
-    margin-top: 10px; /* Reduced margin */
+    margin-top: 10px; 
     cursor: pointer;
 }
 
